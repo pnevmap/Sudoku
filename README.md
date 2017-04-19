@@ -3,8 +3,7 @@
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
-A: 
-# The "Naked Twins" Strategy:  
+A: ** The "Naked Twins" Strategy:**
 The To find the naked twins we,  
 - gather as candidates the boxes (within the units) with only two digits  
 - combine them in pairs  
